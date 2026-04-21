@@ -12,8 +12,6 @@
 
 I'm a full-stack software engineer with **3+ years of experience** building robust backend systems and seamless integrations. I specialize in **Laravel** and **Vue.js**, with a strong focus on clean API design, e-commerce integrations, and Agile workflows.
 
-Currently working remotely as a **Back End Engineer at Le Ventures** (West Hollywood, CA), where I design backend architectures, build Shopify integrations, and lead code reviews.
-
 - 🔭 Specializing in **Laravel, Vue.js, REST API design & Shopify integrations**
 - 🌱 Always exploring new backend patterns and cloud-native tools
 - 🤝 Experienced with **Agile / Scrum** — standups, sprints, planning, estimation
@@ -51,32 +49,6 @@ Currently working remotely as a **Back End Engineer at Le Ventures** (West Holly
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
----
-
-### 💼 Work Experience
-
-| Role | Company | Period |
-|---|---|---|
-| 🔧 Back End Engineer | Le Ventures (Remote · US) | Dec 2022 – Present |
-| 💻 Software Engineer | Tecizeverything (Remote · UK) | Apr 2021 – May 2022 |
-| 🎓 Web Dev Intern | Weenko | Mar 2021 – Aug 2021 |
-
----
-
-### 🚀 Featured Projects
-
-**🛒 NetSecCloud — E-learning Platform**
-Full-stack e-learning app with video courses, dashboard, and PayPal payment integration.
-`Laravel` `React.js` `REST API` `PayPal`
-
-**🤖 Used Cars Price Prediction**
-Machine learning model to predict used car prices with an Android interface.
-`Python` `Machine Learning` `Android`
-
-**📊 Service Bus Supervisor**
-Business process supervision tool for a service bus architecture.
-`Spring Boot` `React.js`
 
 ---
 
